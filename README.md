@@ -27,22 +27,6 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidahatsu&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidahatsu&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidahatsu&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 🤖 Building AI agent systems and agentic workflows
