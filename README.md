@@ -6,23 +6,31 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 
 ---
 
-## 📚 2026 Architecture Series
+## 📚 Non-Fiction Works
+
+### 🏗️ The Architecture of Orchestration
 *System-first explorations of the agentic era.*
 
 **The Data Science Aerial View** • [Read the Synopsis](https://gist.github.com/kidahatsu/1e739464da38f4e672cf47af0f921c82)
 > "The competitive moat is no longer the algorithm; it is the data and the orchestration. Managing the 'Complexity Gap' is the primary job of the modern data leader."
 
-**Post-Silicon Computing** • [Read the Thesis](https://gist.github.com/kidahatsu/abec023acf4f2a841db361e121ee1da6)
-> "To survive the 'Thermodynamic Wall,' we must stop simulating physics with digital logic and start computing *with* physics."
-
-**The War for Truth (Cognitive Armor)** • [Read the Thesis](https://gist.github.com/kidahatsu/74895de3331c3d787f290d976c9338e7)
-> "In an era of AI-powered cognitive warfare, individual media literacy is no longer a sufficient defense. The solution to systemic disinformation is not just individual resilience, but collective cognitive immunity."
+**The AI Landscape: From AI User to AI Orchestrator**
+> "Master the art of combining text, image, and data AI for compound results. Moving from AI literacy to AI fluency through the discipline of cross-modal orchestration."
 
 **The AI Advantage: A New Partnership for Human-AI Collaboration** • [Read the Thesis](https://gist.github.com/kidahatsu/56d4d73dc8b0c9bb27e7333cc336e8ca)
 > "Strategic partnership with AI, framed by the right mindset and skills, unlocks an 'AI Advantage' that enhances human intelligence, creativity, and effectiveness."
 
-**The AI Landscape: From AI User to AI Orchestrator**
-> "Master the art of combining text, image, and data AI for compound results. Moving from AI literacy to AI fluency through the discipline of cross-modal orchestration."
+### ⚡ Frontiers of Computation
+*Physics-first perspectives on the future of hardware and logic.*
+
+**Post-Silicon Computing** • [Read the Thesis](https://gist.github.com/kidahatsu/abec023acf4f2a841db361e121ee1da6)
+> "To survive the 'Thermodynamic Wall,' we must stop simulating physics with digital logic and start computing *with* physics."
+
+### 🛡️ Socio-Technical Resilience
+*Defending truth and democracy in a polarized, AI-driven age.*
+
+**The War for Truth (Cognitive Armor)** • [Read the Thesis](https://gist.github.com/kidahatsu/74895de3331c3d787f290d976c9338e7)
+> "In an era of AI-powered cognitive warfare, individual media literacy is no longer a sufficient defense. The solution to systemic disinformation is not just individual resilience, but collective cognitive immunity."
 
 **Division by Design: The Forces Pulling Nations, and People, Apart**
 > "A unified field theory of our current political moment, showing how economic decoupling, psychological dynamics, and the architecture of surveillance capitalism are systematically sorting society into hostile camps."
