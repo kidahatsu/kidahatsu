@@ -21,6 +21,12 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 **The AI Advantage: A New Partnership for Human-AI Collaboration**
 > "Strategic partnership with AI, framed by the right mindset and skills, unlocks an 'AI Advantage' that enhances human intelligence, creativity, and effectiveness."
 
+**The AI Landscape: From AI User to AI Orchestrator**
+> "Master the art of combining text, image, and data AI for compound results. Moving from AI literacy to AI fluency through the discipline of cross-modal orchestration."
+
+**Division by Design: The Forces Pulling Nations, and People, Apart**
+> "A unified field theory of our current political moment, showing how economic decoupling, psychological dynamics, and the architecture of surveillance capitalism are systematically sorting society into hostile camps."
+
 ---
 
 ## 🔧 Tech Stack
