@@ -42,6 +42,9 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 **Jules Console (Preview)** • [Explore the Orchestrator](https://github.com/kidahatsu/jules-console-preview)
 > "A premium Command Center for orchestrating Google Jules autonomous coding sessions. Bridging the 'Complexity Gap' with real-time timelines and a curated Starred Repo Review system."
 
+**Finlaki (SaaS / Enterprise AI)** • [View Technical Showcase](https://github.com/kidahatsu/finlaki-showcase)
+> "A high-fidelity RAG-powered application for querying Finnish legislation and tax regulations. Features a sophisticated 8-agent swarm architecture with source-grounded citations and automated PII scrubbing."
+
 ---
 
 ## 🔧 Tech Stack
