@@ -15,6 +15,12 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 **Post-Silicon Computing** • [Read the Thesis](https://gist.github.com/kidahatsu/abec023acf4f2a841db361e121ee1da6)
 > "To survive the 'Thermodynamic Wall,' we must stop simulating physics with digital logic and start computing *with* physics."
 
+**The War for Truth (Cognitive Armor)**
+> "In an era of AI-powered cognitive warfare, individual media literacy is no longer a sufficient defense. The solution to systemic disinformation is not just individual resilience, but collective cognitive immunity."
+
+**The AI Advantage: A New Partnership for Human-AI Collaboration**
+> "Strategic partnership with AI, framed by the right mindset and skills, unlocks an 'AI Advantage' that enhances human intelligence, creativity, and effectiveness."
+
 ---
 
 ## 🔧 Tech Stack
