@@ -6,6 +6,17 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 
 ---
 
+## 📚 2026 Architecture Series
+*System-first explorations of the agentic era.*
+
+**The Data Science Aerial View** • [Read the Synopsis](https://gist.github.com/kidahatsu/1e739464da38f4e672cf47af0f921c82)
+> "The competitive moat is no longer the algorithm; it is the data and the orchestration. Managing the 'Complexity Gap' is the primary job of the modern data leader."
+
+**Post-Silicon Computing** • [Read the Thesis](https://gist.github.com/kidahatsu/abec023acf4f2a841db361e121ee1da6)
+> "To survive the 'Thermodynamic Wall,' we must stop simulating physics with digital logic and start computing *with* physics."
+
+---
+
 ## 🔧 Tech Stack
 
 ### AI & Machine Learning
@@ -24,15 +35,6 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 🎯 Current Focus
-
-- 🤖 Building AI agent systems and agentic workflows
-- 🔬 Exploring agent-to-agent protocols (Google A2A, AG-UI)
-- ☁️ Pursuing Azure AI Engineer Associate certification
-- 📚 Deep diving into multi-agent orchestration patterns
 
 ---
 
