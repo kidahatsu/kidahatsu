@@ -37,6 +37,13 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 
 ---
 
+## 🛰️ Active Projects
+
+**Jules Console (Preview)** • [Explore the Orchestrator](https://github.com/kidahatsu/jules-console-preview)
+> "A premium Command Center for orchestrating Google Jules autonomous coding sessions. Bridging the 'Complexity Gap' with real-time timelines and a curated Starred Repo Review system."
+
+---
+
 ## 🔧 Tech Stack
 
 ### AI & Machine Learning
