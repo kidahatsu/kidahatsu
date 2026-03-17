@@ -39,6 +39,9 @@ Materials scientist turned AI enthusiast with 10+ years of research experience. 
 
 ## 🛰️ Active Projects
 
+**AutoResearch Lab (Preview)** • [Explore the Frontier](https://github.com/kidahatsu/autoresearch-lab-preview)
+> "A domain-agnostic, autonomous Multi-Agent System (MAS) for automating the scientific discovery lifecycle. Version 8.0 introduces the 'Turbo Engine' with independent branch pipelining and adversarial skeptic auditing."
+
 **Jules Console (Preview)** • [Explore the Orchestrator](https://github.com/kidahatsu/jules-console-preview)
 > "A premium Command Center for orchestrating Google Jules autonomous coding sessions. Bridging the 'Complexity Gap' with real-time timelines and a curated Starred Repo Review system."
 
