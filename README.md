@@ -2,7 +2,17 @@
 
 ### 🎓 Theoretical Physics and Materials Science PhD
 
-Theoretical physicist and materials scientist turned computational systems & ML researcher with 10+ years of modeling experience. Specializing in domain-adapted language models, high-performance client-side architectures, and distributed systems.
+Theoretical physicist and materials scientist turned computational systems & ML researcher with 10+ years of modeling experience. Specializing in distributed data platforms, domain-adapted language models, and high-performance client-side architectures.
+
+---
+
+## 🔬 Systems & Applied ML Research Focus
+
+* **Distributed Data Platforms & Lakehouse Systems**  
+  Architecting multi-plane distributed data lakehouse platforms and event-driven streaming pipelines. Hands-on design across distributed message streaming, real-time stateful stream processing, catalog isolation (Apache Iceberg), and federated query acceleration.
+
+* **Adversarial NLP & Disinformation Detection**  
+  Fine-tuning transformer architectures—including **Finnish ModernBERT** models—for long-form adversarial text classification and narrative resilience. Applied work on asymmetric loss functions for rare-class imbalance, leakage-free semantic clustering, and optimized ONNX runtime inference.
 
 ---
 
@@ -37,6 +47,13 @@ Theoretical physicist and materials scientist turned computational systems & ML 
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### Distributed Data & Lakehouse
+![Apache Pulsar](https://img.shields.io/badge/Apache_Pulsar-188FFF?style=for-the-badge&logo=apache-pulsar&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-008080?style=for-the-badge)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Client-Side & Systems Engineering
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -46,7 +63,6 @@ Theoretical physicist and materials scientist turned computational systems & ML 
 
 ### Infrastructure & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
