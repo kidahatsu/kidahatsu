@@ -18,6 +18,9 @@ Theoretical physicist and materials scientist turned computational systems & ML 
 
 ## 🚀 Featured Open Source Software
 
+* **[Chroma](https://github.com/kidahatsu/chroma)** — *Local 32-Bit Linear RAW Darkroom & Image Processor*  
+  Independent, 100% client-side digital darkroom and RAW photo processor. Features an unbounded 32-bit linear floating-point mathematical pipeline accelerated by WebGPU WGSL compute shaders (with deterministic CPU fallback), Planckian locus white balance, Thomas cubic splines, 8-band circular Gaussian HSL mixing, ASC CDL 3-way color grading, and non-destructive parametric editing with zero cloud dependencies. Built with React 19, TypeScript, and Vite.
+
 * **[Jules Console](https://github.com/kidahatsu/jules-console)** — *Command Center for Google Jules Autonomous Coding Sessions*  
   Full orchestration console for creating, monitoring, and curating Google Jules autonomous development sessions. Features real-time session timelines, starred repository curation, and multi-account API environment switching built with React 19, TypeScript, Tailwind CSS, and Framer Motion.
 
@@ -59,6 +62,7 @@ Theoretical physicist and materials scientist turned computational systems & ML 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Infrastructure & Cloud
