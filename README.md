@@ -16,7 +16,7 @@ Theoretical physicist and materials scientist turned computational systems & ML 
 
 ---
 
-## 🚀 Featured Open Source Software
+## 🚀 Featured Projects & Software
 
 * **[Chroma](https://github.com/kidahatsu/chroma)** — *Local 32-Bit Linear RAW Darkroom & Image Processor*  
   Independent, 100% client-side digital darkroom and RAW photo processor. Features an unbounded 32-bit linear floating-point mathematical pipeline accelerated by WebGPU WGSL compute shaders (with deterministic CPU fallback), Planckian locus white balance, Thomas cubic splines, 8-band circular Gaussian HSL mixing, ASC CDL 3-way color grading, and non-destructive parametric editing with zero cloud dependencies. Built with React 19, TypeScript, and Vite.
@@ -27,8 +27,9 @@ Theoretical physicist and materials scientist turned computational systems & ML 
 * **[VEdit](https://github.com/kidahatsu/vedit)** — *In-Browser Video Editor via WebAssembly*  
   Client-side video editor powered entirely in the browser using FFmpeg WASM, WebCodecs, and WebGPU shaders. Zero server uploads, zero plugins, 100% private local execution. Multi-track trimming, clip concatenation, transforms, and audio processing built with React 19, TypeScript, and Vite.
 
-* **[Abyssal Crypt](https://github.com/kidahatsu/ag-game-003-rogue_dungeon)** — *Browser-Native Pixel-Art Action Roguelite (WIP)*  
-  Client-side action roguelite built with TypeScript and PixiJS, featuring deterministic seeded runs, dynamic tilemap lighting, companion AI and starlight mechanics, fluid combat feel, and zero-server offline PWA play. Currently under active development as a vibe-coding project.
+* **[Abyssal Crypt](https://crypt-x79a.pages.dev/)** — *Browser-Native Pixel-Art Action Roguelite (WIP)*  
+  [![Play Live](https://img.shields.io/badge/Play_Live-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://crypt-x79a.pages.dev/)  
+  Client-side action roguelite built with TypeScript and PixiJS, featuring deterministic seeded runs, dynamic tilemap lighting, companion AI and starlight mechanics, fluid combat feel, and zero-server offline PWA play. Active vibe-coding project currently in development (best played on PC/desktop with keyboard, mouse, or gamepad; not optimized for mobile devices).
 
 ---
 
