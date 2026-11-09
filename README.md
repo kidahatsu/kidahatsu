@@ -27,8 +27,8 @@ Theoretical physicist and materials scientist turned computational systems & ML 
 * **[VEdit](https://github.com/kidahatsu/vedit)** — *In-Browser Video Editor via WebAssembly*  
   Client-side video editor powered entirely in the browser using FFmpeg WASM, WebCodecs, and WebGPU shaders. Zero server uploads, zero plugins, 100% private local execution. Multi-track trimming, clip concatenation, transforms, and audio processing built with React 19, TypeScript, and Vite.
 
-* **[FinTherapy-8B](https://github.com/kidahatsu/fintherapy-8b)** — *Finnish Empathetic Clinical LLM*  
-  Domain-adapted language model for empathetic therapeutic dialogue in Finnish. LoRA adapter fine-tuned on `LumiOpen/Llama-Poro-2-8B-Instruct` with clinical safety and conversational empathy benchmarks.
+* **[Abyssal Crypt](https://github.com/kidahatsu/ag-game-003-rogue_dungeon)** — *Browser-Native Pixel-Art Action Roguelite (WIP)*  
+  Client-side action roguelite built with TypeScript and PixiJS, featuring deterministic seeded runs, dynamic tilemap lighting, companion AI and starlight mechanics, fluid combat feel, and zero-server offline PWA play. Currently under active development as a vibe-coding project.
 
 ---
 
